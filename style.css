@@ -1,0 +1,71 @@
+div.wrapper {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li{
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+main img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+div.overview {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.overview-description, div.overview-img {
+    width: 50%;
+}
+
+div.overview-img img {
+    width: 100%;
+}
+
+section.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
+
+.banner h3 {
+    color: white;
+}
+
+section.engagement h2 {
+    text-align: center;
+}
+
+div.case-studies {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.case-study {
+    width: 30%;
+}
+
+.case-studies img {
+    width: 100%;
+}
