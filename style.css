@@ -69,3 +69,13 @@ div.case-study {
 .case-studies img {
     width: 100%;
 }
+
+div.button-cases {
+    text-align: center;
+}
+
+button.view-cases {
+    font-size: 20px;
+    background-color: royalblue;
+    border-color: royalblue;
+}
